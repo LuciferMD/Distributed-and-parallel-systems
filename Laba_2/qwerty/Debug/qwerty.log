@@ -1,0 +1,3 @@
+﻿  qwerty.cpp
+D:\Probnic\qwerty\qwerty.cpp(133,20): warning C4018: <: несоответствие типов со знаком и без знака
+  qwerty.vcxproj -> D:\Probnic\qwerty\Debug\qwerty.exe
