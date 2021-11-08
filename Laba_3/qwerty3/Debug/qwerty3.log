@@ -1,0 +1,13 @@
+﻿  qwerty3.cpp
+D:\Probnic\Laba_2\qwerty3\qwerty3.cpp(50,31): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Probnic\Laba_2\qwerty3\qwerty3.cpp(58,31): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Probnic\Laba_2\qwerty3\qwerty3.cpp(80,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  qwerty3.vcxproj -> D:\Probnic\Laba_2\qwerty\Debug\qwerty3.exe

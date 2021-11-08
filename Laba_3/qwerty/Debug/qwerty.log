@@ -1,0 +1,4 @@
+﻿  qwerty.cpp
+D:\Probnic\Laba_2\qwerty\qwerty.cpp(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Probnic\Laba_2\qwerty\qwerty.cpp(88,31): warning C4018: <: несоответствие типов со знаком и без знака
+  qwerty.vcxproj -> D:\Probnic\Laba_2\qwerty\Debug\qwerty.exe
